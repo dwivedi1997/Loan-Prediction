@@ -4,7 +4,7 @@
 This is a classification problem, hence 4 classification algorithm was used namely:
 1. Logistic Regression
 2. Decision Tree
-3, Random Forest
+3. Random Forest
 4. Xgboost
 
 The highest accuracy was obtained using Logistic Regression
